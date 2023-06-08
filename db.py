@@ -45,7 +45,6 @@ def execute_read_query(connection, query):
     except OperationalError as e:
         print(f"The error '{e}' occurred")
 
-
 create_competitions_table = """
 CREATE TABLE IF NOT EXISTS Competitions (
   id SERIAL PRIMARY KEY,
@@ -180,6 +179,66 @@ comps = [
 
 comps_records = ", ".join(["%s"] * len(comps))
 
+lessons = [
+    ("Фортепиано","https://www.youtube.com/playlist?list=PLIiklUOW1Aj64LRlEdfFlpaSaq2RPZWO3","ГБУДО г. Москвы ДМШ им. К.Н.Игумнова",88,"Иванов И.А","http://igumnov.music.mos.ru/"),
+    ("Струнные инструменты","https://yandex.ru/video/preview/13657299184609103752","ГБУДО г. Москвы ДМШ им. К.Н.Игумнова",85,"Иванова Е.А","http://igumnov.music.mos.ru/"),
+    ("духовые и ударные инструменты","https://www.youtube.com/watch?v=54xgZH3FulA","ГБУДО г. Москвы ДМШ им. К.Н.Игумнова",88,"Петров П.П.","http://igumnov.music.mos.ru/"),
+    ("народные инструменты","https://ok.ru/video/372259620109","ГБУДО г. Москвы ДМШ им. К.Н.Игумнова",88,"Сидоров К.А","http://igumnov.music.mos.ru/"),
+]
+
+lessons_records = ", ".join(["%s"] * len(lessons))
+
+levels = [
+    ("LITE","Кто сочиняет музыку?","Композитор","Текст","Композитор – автор, создатель музыкальных произведений","Композитор – автор, создатель музыкальных произведений"),
+    ("INTERMEDIATE","Как называется инструмент, в котором одна из клавиатур напоминает клавиатуру фортепиано?","Аккордеон","Текст","Аккордеон – музыкальный инструмент, в котором  правая клавиатура фортепианного типа, то есть, напоминает клавиатуру фортепиано.","Аккордеон – музыкальный инструмент, в котором  правая клавиатура фортепианного типа, то есть, напоминает клавиатуру фортепиано./"),
+    ('HARD',"Как называется музыкальный спектакль, содержание которого воплощается через музыку и танец?","Балет","Текст","Балет – вид сценического искусства, содержание которого выражается в музыкально-хореографических образах","Балет – вид сценического искусства, содержание которого выражается в музыкально-хореографических образах"),
+]
+
+levels_records = ", ".join(["%s"] * len(levels))
+
+maps = [
+    ("ГБУДО г. Москвы ДМШ им. К.Н.Игумнова","ул. Покровка, 39, стр. 3, Москва","+7 (495) 917-56-77","dmshigumnova@culture.mos.ru","ГБУДО г. Москвы «Детская музыкальная школа имени К.Н. Игумнова»","Школа – одна из старейших в городе Москве. Она была основана в 1920 году и носит имя известного русского пианиста, профессора Московской консерватории К.Н. Игумнова. Основательницей и первым директором школы была Е.С. Вартазарянц, ученица К.Н. Игумнова, выпускница Московской консерватории. Непосредственное участие К.Н. Игумнова в становлении и работе школы стало тем прочным фундаментом, который определил развитие школы, её профессиональные традиции.",
+     "Академическое пение, Духовые и ударные инструменты, Народные инструменты, Струнные инструменты,Фортепиано,Теория музыки,Хоровое пение,Платное отделение"),
+]
+
+maps_records = ", ".join(["%s"] * len(maps))
+
+ribbons = [
+    ("События в ГБУДО г. Москвы ДМШ им. К.Н.Игумнова","Какие концерты будут в июне 2023 г?","Концерт О. Газманова","Характер талантливых детей","Интерью с О. Газмановым",
+"25.05.23","25.05.23","Академическое пение, Духовые и ударные инструменты, Народные инструменты, Струнные инструменты,Фортепиано,Теория музыки,Хоровое пение,Платное отделение","https://yandex.ru/profile/182606330694"),
+]
+
+ribbons_records = ", ".join(["%s"] * len(ribbons))
+
+sds = [
+    ("Фортепиано",88,"Фортепиано",13,"Фортепиано",2,"ГБУДО г. Москвы ДМШ им. К.Н.Игумнова","Фортепиано",48,"духовые и ударные инструменты",2,"Фортепиано",37,0),
+    ("струнные инструменты",45,"струнные инструменты",4,"",0,"ГБУДО г. Москвы ДМШ им. К.Н.Игумнова","струнные инструменты",18,"народные инструменты",2,"струнные инструменты",8,0),
+    ("духовые и ударные инструменты",40,"духовые и ударные инструменты",6,"",0,"ГБУДО г. Москвы ДМШ им. К.Н.Игумнова","духовые и ударные инструменты",22,"хоровое пение",6,"духовые и ударные инструменты",22,0),
+    ("народные инструменты",34,"народные инструменты",6,"",0,"ГБУДО г. Москвы ДМШ им. К.Н.Игумнова","народные инструменты",39,"сольное академическое пение",1,"народные инструменты",7,0),
+]
+
+sds_records = ", ".join(["%s"] * len(sds))
+
+
+sps = [
+    ("Кто сочиняет музыку?","Композитор","Композитор – автор, создатель музыкальных произведений"),
+    ("Как называется инструмент, в котором одна из клавиатур напоминает клавиатуру фортепиано?","Аккордеон","Аккордеон – музыкальный инструмент, в котором  правая клавиатура фортепианного типа, то есть, напоминает клавиатуру фортепиано."),
+    ("Как называется музыкальный спектакль, содержание которого воплощается через музыку и танец?","Балет","Балет – вид сценического искусства, содержание которого выражается в музыкально-хореографических образах"),
+]
+
+sps_records = ", ".join(["%s"] * len(sps))
+
+uws = [
+    ("Katerina-810@mail.r","https://www.behance.net/KateBunakova","Бунакова Екатерина","https://www.behance.net/KateBunakova",0,"",99),
+    ("ariamsaab1983@gmail.com","https://vk.com/alenakozachenko","Козаченко Алена","https://vk.com/alenakozachenko",0,"",99),
+    ("labworkspace@yandex.ru",'',"Лабунский Андрей","",0,"",99),
+    ("nikulin9810@yandex.ru","","Никулин Алексей","",0,"",99),
+    ("pochta201002@mail.ru","https://vk.com/id1240707","Степанов Андрей","https://vk.com/id1240707",0,'',99),
+]
+
+uws_records = ", ".join(["%s"] * len(uws))
+
+
 connection = create_connection(
     "postgres", "postgres", "Pgs2020!comp", "127.0.0.1", "5432")
 
@@ -211,6 +270,63 @@ connection.autocommit = True
 cursor = connection.cursor()
 cursor.execute(insert_query, comps)
 
+insert_query = (
+    f"INSERT INTO lessons (lesson,lessonref,uchr,rating,teacher,uchrmap) VALUES {lessons_records}"
+)
+
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, lessons)
+
+insert_query = (
+    f"INSERT INTO levels (levels,tasktext,answer,tasktype,explanation1,explanation2) VALUES {levels_records}"
+)
+
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, levels)
+
+insert_query = (
+    f"INSERT INTO maps (uchr,address,phone,mail,description,features,pernapr) VALUES {maps_records}"
+)
+
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, maps)
+
+insert_query = (
+    f"INSERT INTO ribbon (news,questions,dayword,talentedchildren,interview,birthday,dates,napr,mapref) VALUES {ribbons_records}"
+)
+
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, ribbons)
+
+insert_query = (
+    f"INSERT INTO studydirections (pernapr1,kol1,pernapr2,kol2,pernapr3,kol3,uchr,pernapr4,kol4,pernapr5,kol5,pernapr6,kol6,year) VALUES {sds_records}"
+)
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, sds)
+
+
+insert_query = (
+    f"INSERT INTO studyplan (task,answer,contentinfo) VALUES {sps_records}"
+)
+
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, sps)
+
+insert_query = (
+    f"INSERT INTO userway (email,userref,username,userphoto,age,reffortest,rating) VALUES {uws_records}"
+)
+
+connection.autocommit = True
+cursor = connection.cursor()
+cursor.execute(insert_query, uws)
+
+
 select_users = "SELECT * FROM users"
 users = execute_read_query(connection, select_users)
 
@@ -222,6 +338,51 @@ comps = execute_read_query(connection, select_comps)
 
 for comp in comps:
     print(comp)
+
+select_lessons = "SELECT * FROM lessons"
+lessons = execute_read_query(connection, select_lessons)
+
+for lesson in lessons:
+    print(lesson)
+
+select_levels = "SELECT * FROM levels"
+levels = execute_read_query(connection, select_levels)
+
+for level in levels:
+    print(level)
+
+
+select_maps = "SELECT * FROM maps"
+maps = execute_read_query(connection, select_maps)
+
+for map in maps:
+    print(map)
+
+select_ribbons = "SELECT * FROM ribbon"
+ribbons = execute_read_query(connection, select_ribbons)
+
+for ribbon in ribbons:
+    print(ribbon)
+
+select_sds = "SELECT * FROM studydirections"
+sds = execute_read_query(connection, select_sds)
+
+for sd in sds:
+    print(sd)
+
+select_sps = "SELECT * FROM studyplan"
+sds = execute_read_query(connection, select_sps)
+
+for sp in sps:
+    print(sp)
+
+select_uws = "SELECT * FROM userway"
+sds = execute_read_query(connection, select_uws)
+
+for uw in uws:
+    print(uw)
+
+
 
 
 
