@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>MoscowSchools</name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Средняя Переяславская, 72, стр 1 </address>
+				<Point>
+					<coordinates>37.637129,55.7887455,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Краснобогатырская, 19, корп 1 </address>
+				<Point>
+					<coordinates>37.6979156,55.8130485,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул. 2-я Владимирская </address>
+				<Point>
+					<coordinates>37.6173,55.755826,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, филиал Шоссе Энтузиастов, 53 </address>
+				<Point>
+					<coordinates>37.8246964,55.7734049,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Зеленый проспект, 99 </address>
+				<Point>
+					<coordinates>37.82736,55.7503573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Пречистенка, 321, стр 1 </address>
+				<Point>
+					<coordinates>37.589956,55.7408462,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, филиал улМаршала Новикова, 11 </address>
+				<Point>
+					<coordinates>37.46542,55.802868,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Народного Ополчения, 7, корп2 </address>
+				<Point>
+					<coordinates>37.472128,55.771009,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Михайлово-Ярцевское, поселок Шишкин Лес, стр.42 </address>
+				<Point>
+					<coordinates>37.189089,55.4103468,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул50 лет Октября, 29Б </address>
+				<Point>
+					<coordinates>37.4107556,55.6578848,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Красина, 27 </address>
+				<Point>
+					<coordinates>37.5855289,55.7692672,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Дмитровское шоссе, 34, корп 2 </address>
+				<Point>
+					<coordinates>37.5746415,55.8402283,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Зоологическая, 18 </address>
+				<Point>
+					<coordinates>37.5827912,55.7650989,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Генерала Рычагова, 20А </address>
+				<Point>
+					<coordinates>37.539753,55.840573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Таймырская, 5 стр 3 </address>
+				<Point>
+					<coordinates>37.697836,55.884202,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Братеевская, 21, корп 2 </address>
+				<Point>
+					<coordinates>37.7534518,55.631607,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Братеевская, 25, корп 2 </address>
+				<Point>
+					<coordinates>37.752913,55.633799,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, филиал ул Мусы Джалиля, 17, корп 3 </address>
+				<Point>
+					<coordinates>37.7450812,55.6245126,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Паустовского, 5, корп 3 </address>
+				<Point>
+					<coordinates>37.5438479,55.599335,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Пронская, 7 </address>
+				<Point>
+					<coordinates>37.8462857,55.7012702,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Бусиновская горка, 5 </address>
+				<Point>
+					<coordinates>37.494067,55.882427,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Университетский проспект, 5 </address>
+				<Point>
+					<coordinates>37.551385,55.695759,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Мичуринский проспект, ул Олимпийская деревня, 20, корп 1 </address>
+				<Point>
+					<coordinates>37.4631,55.670742,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Большая Филёвская, 6 </address>
+				<Point>
+					<coordinates>37.5101081,55.7525687,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Ферганская, 23 </address>
+				<Point>
+					<coordinates>37.8241357,55.7016563,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Бескудниковский бульвар, 53А </address>
+				<Point>
+					<coordinates>37.542367,55.871199,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Цандера, 7, корп 2 </address>
+				<Point>
+					<coordinates>37.625112,55.8186304,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Зеленоград, корп1453 </address>
+				<Point>
+					<coordinates>37.1579227,55.9845438,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Посёлок Ватутинки, 43А </address>
+				<Point>
+					<coordinates>37.3349065,55.5079347,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул. Абрамцевская, 1, 8Б, 8А, район Северный, 7-я линия, 2 </address>
+				<Point>
+					<coordinates>37.5396065,55.9202412,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Крылатская, 23, корп2 </address>
+				<Point>
+					<coordinates>37.4148676,55.7708458,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Адмирала Лазарева, 57 </address>
+				<Point>
+					<coordinates>37.51013,55.5392853,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Бульвар Адмирала Ушакова, 11 </address>
+				<Point>
+					<coordinates>37.5493504,55.5462585,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Холмогорская, 7 </address>
+				<Point>
+					<coordinates>37.7169576,55.8808962,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, филиал - Ярославское шоссе, 118, корп. 1 </address>
+				<Point>
+					<coordinates>37.7101934,55.8685322,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ярославское шоссе, 65 </address>
+				<Point>
+					<coordinates>37.7017693,55.8662713,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Большая Очаковская, 39 корп 2 </address>
+				<Point>
+					<coordinates>37.4477369,55.675256,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Лобачевского, 92, корп 6 </address>
+				<Point>
+					<coordinates>37.484279,55.682586,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Кантемировская, 20, корп 5 </address>
+				<Point>
+					<coordinates>37.6627869,55.6405369,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Каширское шоссе, 42, корп 3 </address>
+				<Point>
+					<coordinates>37.660621,55.647409,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Верхняя Красносельская, 7а, стр 1 </address>
+				<Point>
+					<coordinates>37.6623962,55.7854671,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Козлова, 48 </address>
+				<Point>
+					<coordinates>37.447688,55.716636,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Кулаков переулок, 7 </address>
+				<Point>
+					<coordinates>37.639416,55.8047181,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Пятницкое шоссе, 40 (отделение худ.-эст. развития) </address>
+				<Point>
+					<coordinates>37.3595689,55.8555061,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Митинская, 47, корп 1 </address>
+				<Point>
+					<coordinates>37.3509449,55.8510498,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Лобачевского, 66Б </address>
+				<Point>
+					<coordinates>37.495313,55.677409,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Мичуринский проспект, 9, корп Б, Г </address>
+				<Point>
+					<coordinates>37.4641189,55.674738,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Щаповское, посЩапово, 23 </address>
+				<Point>
+					<coordinates>37.4048039,55.4177369,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Рязановское, пос Знамя Октября, 31, стр3 </address>
+				<Point>
+					<coordinates>37.543932,55.473085,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Рязановское, пос. Ерино, ул. Высокая, 3,стр.2 </address>
+				<Point>
+					<coordinates>37.5228851,55.4489653,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, г. Московский, микрорайон 3-й, 8 </address>
+				<Point>
+					<coordinates>37.3439316,55.5963041,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Академика Курчатова, 2313 </address>
+				<Point>
+					<coordinates>37.477043,55.806453,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Ясеневая, 31, корп 3 </address>
+				<Point>
+					<coordinates>37.736888,55.606896,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Кантемировская, 15, корп 2 </address>
+				<Point>
+					<coordinates>37.669015,55.635092,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Красного Маяка, 4А </address>
+				<Point>
+					<coordinates>37.600675,55.612778,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Волгоградский проспект, 109, корп 6 </address>
+				<Point>
+					<coordinates>37.7605757,55.7090236,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Севастопольский проспект, 43А </address>
+				<Point>
+					<coordinates>37.590205,55.671703,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Новочерёмушкинская, 64, корп 3 </address>
+				<Point>
+					<coordinates>37.557339,55.664258,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Новочерёмушкинская, 56, корп 2 </address>
+				<Point>
+					<coordinates>37.5638075,55.6693616,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Вороновское, пос ЛМС, микрорайон Центральный, 12Б </address>
+				<Point>
+					<coordinates>37.6149894,55.7569428,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Воскресенское, пос Воскресенское, 28 </address>
+				<Point>
+					<coordinates>37.434332,55.506202,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Кокошкинское, дачный посёлок Кокошкино, ул Дачная, 7А </address>
+				<Point>
+					<coordinates>37.162881,55.598111,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Краснопахорское, с Красная Пахра, ул Заводская, 20 </address>
+				<Point>
+					<coordinates>37.2735809,55.4314204,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Поселение Михайлово-Ярцевское, поселок Шишкин Лес, стр.35 </address>
+				<Point>
+					<coordinates>37.189089,55.4103468,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Бехтерева, 27 </address>
+				<Point>
+					<coordinates>37.6481517,55.6261193,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Гарибальди, 8, корп 1 </address>
+				<Point>
+					<coordinates>37.537173,55.674648,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Трофимова, 15А </address>
+				<Point>
+					<coordinates>37.6718459,55.7040866,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Петровско-Разумовский проезд, 16, корп.2 </address>
+				<Point>
+					<coordinates>37.569389,55.79874,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Волоколамское шоссе, 12 </address>
+				<Point>
+					<coordinates>37.4959998,55.8093238,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Крупской, 10 </address>
+				<Point>
+					<coordinates>37.5271266,55.6858244,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Гончарова, 15А </address>
+				<Point>
+					<coordinates>37.587127,55.816778,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>РоссияЗеленоград, корп 1642 </address>
+				<Point>
+					<coordinates>37.1581339,55.974914,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия,Зеленоград, корп 2034 </address>
+				<Point>
+					<coordinates>37.172057,55.9724012,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Зеленоград, Панфиловский проспект, 24 </address>
+				<Point>
+					<coordinates>37.1920713,56.0001978,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Элеваторная, 6, корп 4 </address>
+				<Point>
+					<coordinates>37.656731,55.600177,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Пос. Рублево, ул. Советская, 13, корп. 2 </address>
+				<Point>
+					<coordinates>37.3565911,55.7831613,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Шоссе Энтузиастов, 2218 </address>
+				<Point>
+					<coordinates>37.7173259,55.7506306,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Амундсена, 13 </address>
+				<Point>
+					<coordinates>37.655315,55.852537,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Малая Филевская, 8, корп 1 </address>
+				<Point>
+					<coordinates>37.476051,55.739135,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Кронштадтский бульвар, 49А, </address>
+				<Point>
+					<coordinates>37.5108789,55.8529993,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Большая Переяславская, 8А </address>
+				<Point>
+					<coordinates>37.643054,55.781766,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Кутузовский проспект, 26, корп 1 </address>
+				<Point>
+					<coordinates>37.5419692,55.7431485,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Николоямская, 42 </address>
+				<Point>
+					<coordinates>37.6599906,55.7470578,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Живописная, 1 </address>
+				<Point>
+					<coordinates>37.452573,55.779818,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул. Фёдора Полетаева, 20, корп. 2, стр. 1 </address>
+				<Point>
+					<coordinates>37.777926,55.710479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Ивановская, 14 </address>
+				<Point>
+					<coordinates>37.5710776,55.8192473,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Коломенский проезд, 16 </address>
+				<Point>
+					<coordinates>37.6536544,55.6656257,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Проспект мира, 118 </address>
+				<Point>
+					<coordinates>37.6385271,55.8102355,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Большой Могильцевский переулок, 46 </address>
+				<Point>
+					<coordinates>37.5891138,55.743849,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Люблинская, 21, корп 2 </address>
+				<Point>
+					<coordinates>37.7348209,55.702988,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Новокосинская, 26 </address>
+				<Point>
+					<coordinates>37.8628787,55.7409066,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Базовская, 16 </address>
+				<Point>
+					<coordinates>37.511983,55.8778585,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Оренбургская, ЗА </address>
+				<Point>
+					<coordinates>37.8612102,55.7130079,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Черноморский бульвар, 1, корп 2 </address>
+				<Point>
+					<coordinates>37.614698,55.643586,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Верхние Поля, 11, корп 2 </address>
+				<Point>
+					<coordinates>37.747086,55.666243,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Шоссейная, 74 </address>
+				<Point>
+					<coordinates>37.7201017,55.6708531,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Глазовский переулок, 4, стр 8 </address>
+				<Point>
+					<coordinates>37.587733,55.744479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, УлБ Якиманка, 29 </address>
+				<Point>
+					<coordinates>37.6141392,55.7357717,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Большая Филёвская, 29 </address>
+				<Point>
+					<coordinates>37.487268,55.74415,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Мнёвники, 7, корп 1 </address>
+				<Point>
+					<coordinates>37.492645,55.771847,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Академика Волгина, 17А </address>
+				<Point>
+					<coordinates>37.516962,55.64913,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Северный бульвар, 7, корп 1 </address>
+				<Point>
+					<coordinates>37.6049488,55.867457,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Лобачевского, 38 </address>
+				<Point>
+					<coordinates>37.5037205,55.6689827,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Неманский проезд, 5, корп 2 </address>
+				<Point>
+					<coordinates>37.394606,55.814466,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Неманский проезд, 7, корп 2 </address>
+				<Point>
+					<coordinates>37.393754,55.811742,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Чапаевский переулок, 5А </address>
+				<Point>
+					<coordinates>37.518842,55.796624,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Академика Виноградова, 7 </address>
+				<Point>
+					<coordinates>37.4832481,55.6340733,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Покровка, 39, стр 3 </address>
+				<Point>
+					<coordinates>37.651216,55.76241,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Воронцовская, 1510, стр 1 </address>
+				<Point>
+					<coordinates>37.65735,55.738549,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Палиха, 1433, стр 1 </address>
+				<Point>
+					<coordinates>37.600913,55.784617,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Капотня, квартал 2, д 3 </address>
+				<Point>
+					<coordinates>37.7991918,55.6404205,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Нагатинская набережная, 54 </address>
+				<Point>
+					<coordinates>37.6857415,55.6893857,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Алексея Свиридова, 13, корп 1 </address>
+				<Point>
+					<coordinates>37.4540287,55.7264181,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул 1905 года, 8 </address>
+				<Point>
+					<coordinates>37.56021,55.767074,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Маршала Катукова, 19, корп 3 </address>
+				<Point>
+					<coordinates>37.410896,55.807392,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Клинская, 8А </address>
+				<Point>
+					<coordinates>37.497887,55.869644,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Таганская, 9, стр 5 </address>
+				<Point>
+					<coordinates>37.6606556,55.7413981,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, л Воронцовская, 15,стр 4 </address>
+				<Point>
+					<coordinates>37.6571259,55.7385626,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Пречистенка, 321, стр </address>
+				<Point>
+					<coordinates>37.5905661,55.7407318,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Зеленоград, ул Юности, 7 </address>
+				<Point>
+					<coordinates>37.2236793,55.9982445,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Азовская, 2, корп 2 </address>
+				<Point>
+					<coordinates>37.603867,55.662986,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул. 1-ая Новокузьминская, 19, 1 подъезд, 4 </address>
+				<Point>
+					<coordinates>37.790939,55.714651,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Михайлова, 20, корп 2 </address>
+				<Point>
+					<coordinates>37.7671691,55.7260378,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Симоновский вал, 12А </address>
+				<Point>
+					<coordinates>37.6604839,55.724477,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Долгова, 12 </address>
+				<Point>
+					<coordinates>37.4504835,55.8304186,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, б-р Яна Райниса, 29 </address>
+				<Point>
+					<coordinates>37.422086,55.8482669,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Докучаев переулок, 7, стр 1, 2 </address>
+				<Point>
+					<coordinates>37.6425231,55.7745427,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Проспект Мира, 71, стр 3 </address>
+				<Point>
+					<coordinates>37.633764,55.788264,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Лукинская, 7, корп1 </address>
+				<Point>
+					<coordinates>37.3402208,55.6442249,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Токмаков переулок, 8 </address>
+				<Point>
+					<coordinates>37.6693651,55.7663277,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Новосущевский переулок, 4 </address>
+				<Point>
+					<coordinates>37.6079408,55.7902887,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Стартовая, 10 </address>
+				<Point>
+					<coordinates>37.6934732,55.8882812,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Снежная, 24 </address>
+				<Point>
+					<coordinates>37.650212,55.85356,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Новочеремушкинская, 64, корп 3 </address>
+				<Point>
+					<coordinates>37.557339,55.664258,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Малый Строченовский пер, 14 </address>
+				<Point>
+					<coordinates>37.632882,55.726053,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул 26 Бакинских комиссаров, 18 </address>
+				<Point>
+					<coordinates>37.4867272,55.6622452,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Чистый переулок, 7, 9 </address>
+				<Point>
+					<coordinates>37.590963,55.7427395,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Марии Поливановой, 3 </address>
+				<Point>
+					<coordinates>37.4505483,55.6805357,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Маршала Новикова, 16 </address>
+				<Point>
+					<coordinates>37.46075,55.805547,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Фестивальная, 61Б </address>
+				<Point>
+					<coordinates>37.4964659,55.8629175,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Днепропетровская, 8А </address>
+				<Point>
+					<coordinates>37.5918239,55.6245196,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Трехгорный вал, 24, стр 1 </address>
+				<Point>
+					<coordinates>37.5625201,55.7617949,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Солнцевский проспект, 9 </address>
+				<Point>
+					<coordinates>37.4011474,55.6499801,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул. Садовая-Сухаревская, 7 </address>
+				<Point>
+					<coordinates>37.622276,55.774193,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Борисовский пр-д, 12, корп. 2 </address>
+				<Point>
+					<coordinates>37.7213022,55.6247787,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, поселение Киевский, посёлок Киевский, 17 </address>
+				<Point>
+					<coordinates>36.870661,55.433081,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, д Яковлевское, д1, ДКиС, Яковлевское </address>
+				<Point>
+					<coordinates>36.9414087,55.4654985,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, пос. Первомайское, ул. Центральная, 5, стр. А </address>
+				<Point>
+					<coordinates>37.162126,55.537045,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Наро-Фоминский р-н, пос. Птичное, ул. Центральная, 101 </address>
+				<Point>
+					<coordinates>37.2219033,55.5246927,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Долгопрудная, 10А </address>
+				<Point>
+					<coordinates>37.5349728,55.9418205,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Воронцовская, 30А </address>
+				<Point>
+					<coordinates>37.660011,55.735755,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Проезд Дежнёва, 3 </address>
+				<Point>
+					<coordinates>37.6476524,55.8709067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Зеленоград корп127 </address>
+				<Point>
+					<coordinates>37.2073498,56.0042312,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Измайловское шоссе, 57 </address>
+				<Point>
+					<coordinates>37.7407797,55.7813626,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Первомайская, 1289, </address>
+				<Point>
+					<coordinates>37.8224366,55.7933813,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Сиреневый бульвар, 4Д, </address>
+				<Point>
+					<coordinates>37.7712652,55.8013908,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Западная, 7 </address>
+				<Point>
+					<coordinates>37.0235121,55.5984925,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ломоносовский проспект, 6А </address>
+				<Point>
+					<coordinates>37.54833,55.688086,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Большая Академическая, 11А </address>
+				<Point>
+					<coordinates>37.5248652,55.8218991,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Проезд Дежнёва, 8, корп 1 </address>
+				<Point>
+					<coordinates>37.642175,55.872858,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Микрорайон Северное Чертаново, 7, корп Г </address>
+				<Point>
+					<coordinates>37.589617,55.634156,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Трёхгорный Вал, 24, стр 1 </address>
+				<Point>
+					<coordinates>37.5625201,55.7617949,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Солдатская, 14 </address>
+				<Point>
+					<coordinates>37.704347,55.762765,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, ул Воронцовская, 1510, стр7 </address>
+				<Point>
+					<coordinates>37.6586486,55.738658,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, 1-й Амбулаторный проезд, 8, стр. 2 </address>
+				<Point>
+					<coordinates>37.533671,55.811877,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Суздальская, 40Б </address>
+				<Point>
+					<coordinates>37.874792,55.745027,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Митинская, 40, корп 2 </address>
+				<Point>
+					<coordinates>37.360765,55.849065,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Знаменка, 122, стр 3 </address>
+				<Point>
+					<coordinates>37.6007977,55.7509998,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Нагатинская, 1, стр 29 </address>
+				<Point>
+					<coordinates>37.6282695,55.6830834,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, УлЧаплыгина, 20, стр1 </address>
+				<Point>
+					<coordinates>37.6493632,55.7617258,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Волоцкой переулок, 15, корп 2 </address>
+				<Point>
+					<coordinates>37.352038,55.832582,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул. Садовая-Каретная, 46, стр. 7 </address>
+				<Point>
+					<coordinates>37.6059087,55.772408,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+									</ExtendedData>
+								<address>Россия, Москва, Ул Маршала Соколовского, 10 </address>
+				<Point>
+					<coordinates>37.4861434,55.7937499,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
